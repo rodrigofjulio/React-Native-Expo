@@ -74,7 +74,7 @@ export default function App() {
     
     </>
   );
-}// parei em 48:15 min de vídeo
+}
 
 const styles = StyleSheet.create({
   container: {
